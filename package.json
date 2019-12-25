@@ -11,7 +11,7 @@
   "dependencies": {
     "bluebird": "^3.5.5",
     "debug": "^2.6.3",
-    "ejs": "~2.3.3",
+    "ejs": "~2.5.5",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.2.0",
     "koa-bodyparser": "^3.2.0",
